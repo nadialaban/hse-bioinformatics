@@ -9,13 +9,13 @@
 - **Род:** Kazachstania.  
 - **Выбранные виды:**  
 
-| # | Вид                              |
-|---|----------------------------------|
-| 1 | Kazachstania africana CBS 2517   |
-| 2 | Kazachstania naganishii CBS 8797 |
-| 3 | Kazachstania barnettii           |
-| 4 | Kazachstania saulgeensis         |
-| 5 | Kazachstania kunashirensis       |
+| # | Вид                              | Сборка          |
+|---|----------------------------------|-----------------|
+| 1 | Kazachstania africana CBS 2517   | GCF_000304475.1 |
+| 2 | Kazachstania naganishii CBS 8797 | GCA_000348985.1 |
+| 3 | Kazachstania barnettii           | GCA_903064755.1 |
+| 4 | Kazachstania saulgeensis         | GCA_900180425.1 |
+| 5 | Kazachstania exigua              | GCA_016584175.1 |
 
 Тетрадка с решением
 ---
