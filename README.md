@@ -34,3 +34,29 @@
 | 3 | Kazachstania barnettii           | 5473                            | 0.644475                  | 5473               | 0.644475     |
 | 4 | Kazachstania saulgeensis         | 5908                            | 0.646064                  | 5908               | 0.646064     |
 | 5 | Kazachstania exigua              | 5522                            | 0.619264                  | 5522               | 0.619264     |
+
+Z-ДНК
+---
+| # | Вид                              | Количество предсказанных Z-ДНК | Общая длина предсказанных Z-ДНК | Количество предсказанных Z-ДНК с ZH-Score >= 500 | Общая длина предсказанных Z-ДНК с ZH-Score >= 500 |
+|---|----------------------------------|--------------------------------|---------------------------------|--------------------------------------------------|---------------------------------------------------|
+| 1 | Kazachstania africana CBS 2517   | 421466                         | 3707236                         | 3622                                             | 36414                                             |
+| 2 | Kazachstania naganishii CBS 8797 | 504857                         | 4591438                         | 19026                                            | 195766                                            |
+| 3 | Kazachstania barnettii           | 123979                         | 10855352                        | 4443                                             | 46960                                             |
+| 4 | Kazachstania saulgeensis         | 515417                         | 4477768                         | 6046                                             | 65086                                             |
+| 5 | Kazachstania exigua              | 46412                          | 403950                          | 5467                                             | 57602                                             |
+  
+Гистограммы с распределением ZH-Score можно посмотреть [здесь](https://github.com/nadialaban/hse22_project/tree/main/pictures/zh-score%20histagrams).  
+Расположение предсказанных Z-ДНК:  
+<img width="1279" alt="image" src="https://user-images.githubusercontent.com/23341597/173169895-8cc47260-1ee4-4e7f-8f68-eefb707734e7.png">  
+Для примера в отчете приведен только первый вид и первые 5 предсказаний.  
+Остальные примеры можно посмотреть [тут](https://github.com/nadialaban/hse22_project/tree/main/pictures/intersections)
+
+Распределение предсказанных Z-ДНК:
+<img width="541" alt="image" src="https://user-images.githubusercontent.com/23341597/173169765-9b63b1e4-0a37-4ade-a56e-d341c817d72a.png">
+*Но это неточно...*  
+
+Гомологичные кластеры
+---
+Всего получено 5263 кластера.  
+Гистаграмма кластеров по количеству геномов, которые в них входят:  
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/23341597/173170100-b1dd191d-e6a8-46da-8210-35d4c4da075d.png">
